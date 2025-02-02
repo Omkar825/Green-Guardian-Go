@@ -1,5 +1,5 @@
 // Change the API base URL to point to your local XAMPP server
-const API_BASE_URL = "http://10.2.2.96/login_system";
+const API_BASE_URL = "http://10.2.2.96/Green-Guardian-Go";
 
 
 // Signup Form Submission
